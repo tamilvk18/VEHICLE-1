@@ -1,7 +1,8 @@
-Base param
+First Stage: PS1
 
-Height : 44m
-Diameter : 2.8 m
-Number of stages : 4
-Lift off mass : 320 tonnes (XL)
+PSLV uses the S139 solid rocket motor that is augmented by 6 solid strap-on
+boosters.
+Engine : S139
+Fuel : HTPB
+Max. Thrust : 4800 kN
 
