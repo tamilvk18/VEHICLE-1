@@ -1,7 +1,7 @@
-Base param
+Third Stage: PS3
 
-Height : 44m
-Diameter : 2.8 m
-Number of stages : 4
-Lift off mass : 320 tonnes (XL)
+The third stage of PSLV is a solid rocket motor that provides the upper stages
+high thrust after the atmospheric phase of the launch.
+Fuel : HTPB
+Max. Thrust : 240 kN
 
